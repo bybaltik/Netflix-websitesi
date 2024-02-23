@@ -1,0 +1,32 @@
+
+
+.card-text,.card-title,.card-subtitle,.nav-link,.navbar-brand  {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+
+
+    background-color: red;
+}
+
+.fa-brands{
+
+color: white;
+font-size: 25px;
+    
+}
+
+.fa-brands:hover {
+    -ms-transform: scale(1.3); /* IE 9 */
+    -webkit-transform: scale(1.3); /* Safari 3-8 */
+     transform: scale(1.3); 
+   }
+
+   .card:hover {
+    -ms-transform: scale(1.3); /* IE 9 */
+    -webkit-transform: scale(1.7); /* Safari 3-8 */
+     transform: scale(1.1); 
+   }
